@@ -1,0 +1,10 @@
+a442a56}\InProcServer32" owner="false">
+      <registryValue name="" valueType="REG_EXPAND_SZ" value="%SystemRoot%\System32\shdocvw.dll" operationHint="replace" owner="true" />
+      <registryValue name="ThreadingModel" valueType="REG_SZ" value="Apartment" operationHint="replace" owner="true" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\CLSID\{14074e0b-7216-4862-96e6-53cada442a56}\Instance" owner="false">
+      <registryValue name="CLSID" valueType="REG_SZ" value="{3d154a2d-d911-437e-a30c-5f56a9b7081d}" operationHint="replace" owner="true" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\CLSID\{14074e0b-7216-4862-96e6-53cada442a56}\Instance\InitPropertyBag" owner="false">
+      <registryValue name="DefaultIcon" valueType="REG_EXPAND_SZ" value="%SystemRoot%\System32\imageres.dll,-1001" operationHint="replace" owner="true" />
+    </registryKey>

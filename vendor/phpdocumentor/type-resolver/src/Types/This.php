@@ -1,0 +1,5 @@
+s.}{\rtlch\fcs1 \af38\afs20 \ltrch\fcs0 \f38\fs20\insrsid4662553\charrsid3167690 
+\par }{\rtlch\fcs1 \ab\af38\afs20 \ltrch\fcs0 \b\f38\fs20\insrsid4662553\charrsid3167690 14.\tab }{\rtlch\fcs1 \af38\afs20 \ltrch\fcs0 \b\f38\fs20\lang1046\langfe1033\langnp1046\insrsid6636389\charrsid3167690 RESTRI\'c7\'d5ES GEOGR\'c1FICAS.}{\rtlch\fcs1 
+\af38\afs20 \ltrch\fcs0 \f38\fs20\insrsid6636389\charrsid3167690  }{\rtlch\fcs1 \af38\afs20 \ltrch\fcs0 \f38\fs20\lang1046\langfe1033\langnp1046\insrsid6636389\charrsid3167690 Se o software estiver marcado como ativa\'e7\'e3o obrigat\'f3ria em uma regi
+\'e3o espec\'edfica, voc\'ea s\'f3 poder\'e1 ativ\'e1-lo na regi\'e3o geogr\'e1fica indicada na embalagem do software.}{\rtlch\fcs1 \af38\afs20 \ltrch\fcs0 \f38\fs20\insrsid6636389\charrsid3167690  }{\rtlch\fcs1 \af38\afs20 \ltrch\fcs0 
+\f38\fs20\lang1046\langfe1033\langnp1046\insrsid6636389\charrsid3167690 Voc\'ea n\'e3o poder\'e1 ativar o

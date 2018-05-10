@@ -1,0 +1,7 @@
+Key keyName="HKEY_CLASSES_ROOT\.camp" owner="false">
+      <registryValue name="" valueType="REG_SZ" value="campfile" operationHint="replace" owner="true" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\AppID\{CD11FAB6-1C0E-45e1-BA31-5C6008EF2607}" owner="false">
+      <registryValue name="" valueType="REG_SZ" value="WcsPlugInServiceLib" operationHint="replace" owner="true" />
+      <registryValue name="LocalService" valueType="REG_SZ" value="WcsPlugInService" operationHint="replace" owner="true" />
+      <registryValue name="AccessPermission" valueType="REG_BINARY" value="01000480840000009400000000000000140000000200700005000000000014000700000001010000000000051
